@@ -24,6 +24,6 @@ The dashboard highlights **revenue, profit trends, and customer/product analysis
 
 ## 📷 Dashboard Preview  
 
-![image](https://github.com/user-attachments/assets/5d1aae27-3378-4ac7-b13d-efaf810d7605)
+![image](https://github.com/Onkar41/Tableau-Sales-Profit-Analysis-Dashboard/blob/main/Screenshot%202025-09-03%20111827.png)
 - PREDICTION PAGE <br><br>
 ![prediction](https://github.com/user-attachments/assets/c025d863-1f21-4ed1-8672-27a69e5f8d88)
